@@ -40,8 +40,3 @@ for i=1:line
     fprintf(fid,[NewNames(i,:) '\r\n']);
 end
 fclose(fid);
-
-
-
-
-
