@@ -1,4 +1,4 @@
-# This folder is for good/bad pot filter codes, gitclone it if you want to use.
+# This folder is for good/bad pot filter codes, clone it if you want to use.
 
 First, run tag.m in matlab to add labels to your train&test sets, it will create a txt including your file names and labels(1 for good and 2 for bad)
 
