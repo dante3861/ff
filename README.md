@@ -9,4 +9,4 @@ Sencond, use change_size.py to standardize your pics into a same size so that ou
 
 Third, run hog_svm.py to use hog_svm model to train and test;
 or you can run train.py and test.py to use ML model based on tensorflow to do the training and testing.
-# It will be better if you got a TPU because both of two models need great computing resource as well as RAM.
+
